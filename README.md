@@ -83,8 +83,8 @@ Ensure the following dependencies are installed:
 ### Running the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Prateek1607/flight_delay_classifier.git
-   cd flight_delay_classifier
+   git clone https://github.com/Prateek1607/Flight_Delay_Classifier.git
+   cd Flight_Delay_Classifier
    ```
 2. Install the required packages:
    ```bash
