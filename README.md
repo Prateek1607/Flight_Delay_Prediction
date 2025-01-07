@@ -69,10 +69,10 @@ The following models were trained and evaluated:
 - The **Random Forest Classifier** had the highest precision (87.93%).
 - The Naive Bayes and Logistic Regression models showed identical performance.
 
-## Future Enhancements
+<!-- ## Future Enhancements
 - Integrate additional data sources, such as weather conditions and air traffic volume.
 - Extend the analysis to multiple months and years.
-- Deploy a real-time prediction API or web app for user interaction.
+- Deploy a real-time prediction API or web app for user interaction. -->
 
 ## Usage
 ### Prerequisites
